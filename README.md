@@ -52,7 +52,7 @@ Este Trabajo Final Integrador implementa un sistema completo de **gestión de em
 |---------|-------------|
 | `01_esquema.sql` | Creación de BD, tablas y constraints |
 | `02_catalogos.sql` | Estructura de catálogos (vacío en este diseño) |
-| `03_datos_masivos.sql` | Generación de 450,000 registros |
+| `03_datos_masivos.sql` | Generación de +450,000 registros |
 | `04_indices.sql` | Creación y verificación de índices |
 | `05_consultas.sql` | 4 consultas avanzadas con análisis |
 | `05_explain.sql` | Medición de rendimiento con/sin índices |
