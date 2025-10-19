@@ -41,25 +41,6 @@ Este Trabajo Final Integrador implementa un sistema completo de **gestión de em
 
 ## 📁 Estructura del Repositorio
 
-| Archivo | Descripción |
-|---------|-------------|
-| `TFI_BDI_Comisiones1,6,7_Grupo2_Cordero_Dauria_Giardini_Perdigues.pdf` | Documentación principal del proyecto |
-| `TFI_BDI_IA_Complementario_Comisiones1,6,7_Grupo2_Cordero_Dauria_Giardini_Perdigues.pdf` | Interacciones completas con herramientas de IA |
-| `01_esquema.sql` | Creación de BD, tablas y constraints |
-| `02_catalogos.sql` | Estructura de catálogos (vacío en este diseño) |
-| `03_datos_masivos.sql` | Generación de +450,000 registros |
-| `04_indices.sql` | Creación y verificación de índices |
-| `05_consultas.sql` | 4 consultas avanzadas con análisis |
-| `05_explain.sql` | Medición de rendimiento con/sin índices |
-| `06_vistas.sql` | Vistas para reportes ejecutivos |
-| `07_seguridad.sql` | Usuarios, permisos y procedimientos seguros |
-| `08_transacciones.sql` | Manejo de transacciones y concurrencia |
-| `09_concurrencia-guiada.sql` | Pruebas guiadas de concurrencia |
-
----
-
-## 📁 Estructura del Repositorio
-
 ### Archivos en la raíz:
 - `README.md` - Este archivo
 - `TFI_BDI_Comisiones1,6,7_Grupo2_Cordero_Dauria_Giardini_Perdigues.pdf` - Documentación principal
