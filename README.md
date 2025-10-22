@@ -15,7 +15,7 @@
 ---
 
 ## 🎥 Video Explicativo  
-[Enlace al Video](https://youtu.be/ejemplo-video-tfi)  
+[Enlace al Video]([https://youtu.be/ejemplo-video-tfi](https://youtu.be/JJ2F1CTKpUg))  
 
 ---
 
@@ -141,7 +141,7 @@ Este Trabajo Final Integrador implementa un sistema completo de **gestión de em
 ## 🔗 Enlaces
 
 - **Repositorio**: [https://github.com/Alex-Dauria/TrabajoFinalIntegrador_BDI](https://github.com/Alex-Dauria/TrabajoFinalIntegrador_BDI)
-- **Video Explicativo**: [https://youtu.be/ejemplo-video-tfi](https://youtu.be/ejemplo-video-tfi)
+- **Video Explicativo**: [https://youtu.be/ejemplo-video-tfi]([https://youtu.be/ejemplo-video-tfi](https://youtu.be/JJ2F1CTKpUg))
 
 ---
 
